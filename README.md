@@ -4,5 +4,7 @@
 &#128218;
 <br/>***Sou estudante de Pensamento Computacional***	
 &#128421;
-<br/>***link do html meu:![](https://github.com/Dixxnay/NIGHTcafeteria.git)
-<br/>![This in an image](https://play.google.com/store/apps/details?id=in.vineetsirohi.htmlreader&hl=pt&gl=US)
+<br/>***Sou do 1ª ano do ensino médio***
+<br/>![night cafeteria](https://github.com/Dixxnay/NIGHTcafeteria.git)
+<br/>![image.html](https://www.google.com/url?sa=i&url=https%3A%2F%2Favepdf.com%2Fpt%2Fhtml-to-pdf&psig=AOvVaw3uPYw2qO0SEkIU0zTQJyGo&ust=1668703005005000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMil5aSRs_sCFQAAAAAdAAAAABAI)
+
