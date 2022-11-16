@@ -1,5 +1,8 @@
-&#128126; 
-**Oie sou a Jéssica Naiara Rodrigues**
-*Colégio estadual do campo do Rio Do Couro*
-***Sou estudante de Pensamento Computacional***
-![This in an image](https://play.google.com/store/apps/details?id=in.vineetsirohi.htmlreader&hl=pt&gl=US)
+<br/>&#128126;
+<br/>**Oie sou a Jéssica Naiara Rodrigues**
+<br/>*Colégio estadual do campo do Rio Do Couro*	
+&#128218;
+<br/>***Sou estudante de Pensamento Computacional***	
+&#128421;
+<br/>***
+<br/>![This in an image](https://play.google.com/store/apps/details?id=in.vineetsirohi.htmlreader&hl=pt&gl=US)
